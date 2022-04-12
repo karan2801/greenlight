@@ -10,3 +10,6 @@ Checkpoints:
 2. Sending JSON Messages in API Responses
 3. Parsing JSON Messages in API Requests
 4. Postgres Setup and configuration
+5. Structured Logging and Error Handling
+6. Rate Limiting
+7. Graceful Shutdown
